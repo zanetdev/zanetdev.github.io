@@ -1,6 +1,8 @@
+---
 layout: welcome
 title: Welcome to ZaNetDev
 cover: true
+---
 
 ## Welcome to ZaNetDev
 
