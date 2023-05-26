@@ -1,3 +1,7 @@
+layout: welcome
+title: Welcome to ZaNetDev
+cover: true
+
 ## Welcome to ZaNetDev
 
 This is the holding page for my personal static site.
