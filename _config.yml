@@ -1,3 +1,6 @@
+
 remote_theme: hydecorp/hydejack
+url: https://zanetdev.github.io
+baseurl: ''
 github:
   is_project_page: false
