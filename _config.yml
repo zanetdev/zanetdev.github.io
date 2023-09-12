@@ -1,11 +1,7 @@
-# theme: jekyll-theme-minimal
-# title: Octocat's homepage
-# description: Bookmark this to keep an eye on my project updates!
-
 remote_theme: hydecorp/hydejack@v9.1.6
-# url: https://zanetdev.com
+url: https://zanetdev.com
 # baseurl: ''
-# github:
-#   is_project_page: false
-# plugins:
-#   - jekyll-include-cache
+github:
+  is_project_page: false
+plugins:
+  - jekyll-include-cache
